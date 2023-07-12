@@ -1,7 +1,6 @@
 userName = "deno"
 
 PI = 3.14
-url ="isisoftware123@gmail.com"
 
 #list of literals
 fruits = ["apple","orange","peas"]
